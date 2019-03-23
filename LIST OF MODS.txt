@@ -1,0 +1,89 @@
+MONSTERS (1)
+--------------------
+NERGIGANTE NEP
+--MODEL
+---> em\em103
+--SOUNDS
+---> sound\wwise\Windows\em103_vo.nbnk
+
+
+WEAPONS (2)
+--------------------
+GUNLANCE EXPLOSION MEGUMIN
+--SFX
+---> sound\wwise\Windows\wp07_gun_epvsp_shell.nbnk
+
+WEAPON EFFECTS
+--VISUAL EFFECTS
+---> vfx
+--WEAPON
+---> wp
+
+
+NPC (1)
+--------------------
+HANDLER 2B
+--TEXTURES (keep if you want player 2B)
+---> pl\f_equip\mod_pl_2b
+--MODEL
+---> npc\npc002
+
+PALICO (2)
+--------------------
+HIMEKO (RED HAIR CHIBI)
+--TEXTURES
+---> otomo\equip\mod_aragaki
+--MEGAMAN
+---> otomo\equip\ot035
+
+ASTOLFO BEAN PLUSHIE
+MOOGLE
+---> otomo\equip\ot038
+
+
+MALE PLAYER (2)
+--------------------
+WALUIGI
+BUTTERLFY
+---> pl\m_equip\pl117_0000
+
+SAMUS
+--TEXTURES
+---> pl\TSC_SAMUS
+--ARM
+---> common\equip\armor.am_dat
+--BUSHI "SABI" (Helmet)
+---> pl\f_equip\pl066_0000
+--BUSHI "HOMARE"
+---> pl\f_equip\pl066_0010
+
+
+FEMALE PLAYER (4)
+--------------------
+YoRHa 2B
+--TEXTURES (keep if you want handler 2B)
+---> pl\f_equip\mod_pl_2b
+--BUTTERFLY
+---> pl\f_equip\pl117_0000
+--GALA SUIT (INVISIBLE WAIST)
+---> pl\f_equip\pl078_0000
+
+ANIME NEKO
+--TEXTURES
+---> pl\SEA_GROUP_MOD\015
+--BRIGADE
+---> pl\f_equip\pl036_0000
+
+ANIME BLONDIE
+--TEXTURES
+---> pl\SEA_GROUP_MOD\009
+--BUSHI "HOMARE"
+---> pl\f_equip\pl066_0010
+
+FEMALE SAKURA
+--TEXTURES
+---> pl\mod
+---> pl\f_equip\YaMaple
+---> pl\f_equip\BIBi
+--BUSHI "SABI"
+---> pl\f_equip\pl066_0000
