@@ -60,6 +60,12 @@ SAMUS
 
 FEMALE PLAYER (4)
 --------------------
+HATSUNE MIKU
+--TEXTURES
+---> pl\tda
+--GUILD CROSS
+---> pl\f_equip\pl048_0000
+
 YoRHa 2B
 --TEXTURES (keep if you want handler 2B)
 ---> pl\f_equip\mod_pl_2b
@@ -87,3 +93,8 @@ FEMALE SAKURA
 ---> pl\f_equip\BIBi
 --BUSHI "SABI"
 ---> pl\f_equip\pl066_0000
+
+FEMALE HAIR (2)
+--------------------
+pl\hair\hair106
+pl\hair\hair107
