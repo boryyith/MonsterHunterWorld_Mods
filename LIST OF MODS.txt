@@ -50,8 +50,6 @@ BUTTERLFY
 SAMUS
 --TEXTURES
 ---> pl\TSC_SAMUS
---ARM
----> common\equip\armor.am_dat
 --BUSHI "SABI" (Helmet)
 ---> pl\f_equip\pl066_0000
 --BUSHI "HOMARE"
