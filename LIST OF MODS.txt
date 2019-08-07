@@ -58,6 +58,12 @@ SAMUS
 
 FEMALE PLAYER (4)
 --------------------
+NEPTUNE
+-- TEXTURES
+---> pl\nep_mod
+-- COMMISSION
+---> pl\f_equip\pl053_0000
+
 HATSUNE MIKU
 --TEXTURES
 ---> pl\tda
