@@ -58,6 +58,12 @@ SAMUS
 
 FEMALE PLAYER (4)
 --------------------
+LUCINA
+-- TEXTURES
+---> pllucina_textures
+-- ORIGIN
+---> pl\f_equip\pl018_0000
+
 NEPTUNE
 -- TEXTURES
 ---> pl\nep_mod
