@@ -58,9 +58,22 @@ SAMUS
 
 FEMALE PLAYER (4)
 --------------------
+IO
+-- TEXTURES
+---> pl\io_textures
+-- FACE
+---> pl\f_face\face003
+-- SOUND
+---> sound\wwise\Windows\pl_act_vo_c_04_m.nbnk
+---> sound\wwise\Windows\pl_act_vo_f_01_m.nbnk
+-- CIRI
+---> pl\f_equip\pl119_0000
+-- HAIR
+---> pl\hair\hair404
+
 LUCINA
 -- TEXTURES
----> pllucina_textures
+---> pl\lucina_textures
 -- ORIGIN
 ---> pl\f_equip\pl018_0000
 
