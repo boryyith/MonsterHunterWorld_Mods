@@ -20,6 +20,17 @@ WEAPON EFFECTS
 ---> wp
 
 
+MANTLES
+--------------------
+IO MANTLES
+--VFX
+---> vfx/efx/askill
+---> vfx/efx/askill_TU
+--ACCESSORY
+---> accessory/askill
+--TEXTURES
+---> pl/io_textures/askill
+
 NPC (1)
 --------------------
 HANDLER 2B
