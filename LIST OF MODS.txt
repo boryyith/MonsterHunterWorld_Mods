@@ -96,8 +96,3 @@ FEMALE SAKURA
 ---> pl\f_equip\BIBi
 --BUSHI "SABI"
 ---> pl\f_equip\pl066_0000
-
-FEMALE HAIR (2)
---------------------
-pl\hair\hair106
-pl\hair\hair107
